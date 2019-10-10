@@ -9,7 +9,7 @@ R-Ladies Recife Meetup: https://www.meetup.com/pt-BR/rladies-recife/
 - [Instagram](http://instagram.com/rladiesrecife)
 - [Facebook](http://facebook.com/rladiesrecife)
 
-## [Eventos passados](https://www.meetup.com/pt-BR/rladies-recife/)
+## [Eventos realizados](https://www.meetup.com/pt-BR/rladies-recife/)
  1. **[# 1º Meetup/Encontro: Conhecendo o R-Ladies Recife](https://www.meetup.com/pt-BR/rladies-recife/events/264557328/)**
       - *12 de Setembro de 2019, 19h- 21h30*
       - Apresentação do evento: [Adenice Ferreira](https://www.linkedin.com/in/adenice-ferreira-15a97616b). 
