@@ -13,7 +13,7 @@ R-Ladies Recife Meetup: https://www.meetup.com/pt-BR/rladies-recife/
  1. **[# 1º Meetup/Encontro: Conhecendo o R-Ladies Recife](https://www.meetup.com/pt-BR/rladies-recife/events/264557328/)**
       - *12 de Setembro de 2019, 19h- 21h30*
       - Apresentação do evento: [Adenice Ferreira](https://www.linkedin.com/in/adenice-ferreira-15a97616b). 
-          * [Apresentação R-Ladies:](https://github.com/rladies/meetup-presentations_recife/blob/master/Apresentacao_RLadiesRec.pdf) Apresentado por [Ranah Duarte](https://www.linkedin.com/in/ranahduarte/) e [Luana Rodrigues](linkedin.com/in/luanavsr)
+          * [Apresentação R-Ladies:](https://github.com/rladies/meetup-presentations_recife/blob/master/Apresentacao_RLadiesRec.pdf) Apresentado por [Ranah Duarte](https://www.linkedin.com/in/ranahduarte/) e [Luana Rodrigues](https://www.linkedin.com/in/luanavsr)
           * [Introdução ao Tidyverse:](https://github.com/Larissa1292/R-Ladies_Recife) Apresentado por [Larissa Lima](https://www.linkedin.com/in/larissadossantoslima/)
             
  2. **# [2º Encontro: Ciência de Dados e DataViz](https://www.instagram.com/p/B3azbbfg7l-/)**
